@@ -6,3 +6,32 @@
     border: 1px solid red;
     padding: 5px 10px
 }
+.Heading6{
+    background:rgb(236, 181, 181);
+}
+.Heading5{
+    background:salmon
+}
+/*div{
+    background: rgb(162, 164, 167);
+}*/
+#bg-img{
+    background-image: url("../images/bgimg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fonts{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box-model{
+    height: 1oopx;
+    width: 100px;
+    padding: 30px;
+    margin: 30px;
+    border: 10px solid red;
+    background:#000;
+    color:#fff;
+    text-align: center;
+}
